@@ -1,0 +1,9 @@
+Ivanov Ivan - 'A'
+Aliyev Ali - 'F'
+Menshikov Sergey - 'D'
+Andreev Andrey - 'B'
+Solekov Mihail - 'F'
+
+Average is64
+Maximum is 100
+Minimum is 22
